@@ -20,7 +20,6 @@ public class Main {
 
         if (Devide == 0) {
             throw new IllegalArgumentException("На 0 делить нельзя");
-        }
-        else calc.println.accept(Devide);
+        } else calc.println.accept(Devide);
     }
 }
